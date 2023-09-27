@@ -30,11 +30,6 @@ To start the NGINX SERVER ON A WINDOWS LOCAL MACHINE that already has the Nginx 
   > To quit the Nginx server on Windows, run the command .\nginx -s quit. 
   
 
-Have a quick look at webpage:
-
-![1](https://github.com/MadhuriKasham/Portfolio/assets/70937030/0a674473-5c32-4d20-8533-a9992edd3ab0)
-![2](https://github.com/MadhuriKasham/Portfolio/assets/70937030/f0698355-c9d0-4bb5-8370-09660fb2ab4a)
-
 Key Features:
 
   > Responsive web design
